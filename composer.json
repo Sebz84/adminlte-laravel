@@ -58,11 +58,11 @@
   "repositories": [
     {
         "type": "git",
-        "url": "https://github.com/zambodaniel/filesystem"
+        "url": "https://github.com/sebz84/acacha-filesystem"
     },
     {
         "type": "git",
-        "url": "https://github.com/zambodaniel/helpers"
+        "url": "https://github.com/sebz84/acacha-helpers"
     }
   ],
   "minimum-stability": "dev",
