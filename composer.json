@@ -16,8 +16,8 @@
     "php": "^7.3|^8.0|^8.3",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^8.0",
-    "acacha/filesystem": "^0.1.2",
-    "acacha/helpers": "^0.1.4",
+    "acacha/filesystem": "dev-master",
+    "acacha/helpers": "dev-master",
     "league/flysystem": "^1.0",
     "laravel/ui": "^3.0"
   },
@@ -64,6 +64,5 @@
         "type": "git",
         "url": "https://github.com/zambodaniel/helpers"
     }
-
 ]
 }
