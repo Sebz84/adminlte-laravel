@@ -15,11 +15,11 @@
   "require": {
     "php": "^7.3||^8.0||^8.3",
     "creativeorange/gravatar": "~1.0",
-    "laravel/framework": "^8.0",
+    "laravel/framework": "^10.0",
     "acacha/filesystem": "dev-master",
     "acacha/helpers": "dev-master",
     "league/flysystem": "^1.0",
-    "laravel/ui": "^3.0"
+    "laravel/ui": "^4.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.0",
