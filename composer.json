@@ -64,5 +64,7 @@
         "type": "git",
         "url": "https://github.com/zambodaniel/helpers"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
