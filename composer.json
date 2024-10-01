@@ -16,8 +16,8 @@
     "php": "^7.3||^8.0",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^10.0",
-    "acacha/filesystem": "dev-master",
-    "acacha/helpers": "dev-master",
+    "acacha/filesystem": "*",
+    "acacha/helpers": "*",
     "league/flysystem": "^1.0",
     "laravel/ui": "^4.0"
   },
@@ -64,7 +64,5 @@
         "type": "git",
         "url": "https://github.com/sebz84/acacha-helpers"
     }
-  ],
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  ]
 }
