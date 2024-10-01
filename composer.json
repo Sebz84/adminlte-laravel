@@ -55,7 +55,7 @@
   "config": {
     "sort-packages": true
   },
-"repositories": [
+  "repositories": [
     {
         "type": "git",
         "url": "https://github.com/zambodaniel/filesystem"
@@ -64,5 +64,5 @@
         "type": "git",
         "url": "https://github.com/zambodaniel/helpers"
     }
-]
+  ]
 }
