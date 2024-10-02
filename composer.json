@@ -64,5 +64,7 @@
         "type": "git",
         "url": "https://github.com/sebz84/acacha-helpers"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable" : true
 }
