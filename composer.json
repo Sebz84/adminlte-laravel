@@ -15,7 +15,7 @@
   "require": {
     "php": "^7.3||^8.0",
     "creativeorange/gravatar": "~1.0",
-    "laravel/framework": "^11.0",
+    "laravel/framework": "^10.0",
     "acacha/filesystem": "dev-master",
     "acacha/helpers": "dev-master",
     "league/flysystem": "^3.0",
@@ -40,6 +40,9 @@
     "fix-style": "phpcbf -p --standard=PSR2.xml --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests"
   },
   "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    },
     "laravel": {
       "providers": [
         "Acacha\\AdminLTETemplateLaravel\\Providers\\AdminLTETemplateServiceProvider"
