@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "^7.3||^8.0",
+    "php": "^8.0",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^11.0",
     "acacha/filesystem": "1.0@dev",
